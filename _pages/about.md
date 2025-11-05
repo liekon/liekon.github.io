@@ -17,42 +17,77 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a second-year PhD student at [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu) advised by Professor [Olgica Milenkovic](https://publish.illinois.edu/milenkovic/) (IEEE Fellow). I graduated from [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/) with a bachelor's degree, advised by Professor [Siheng Chen](https://siheng-chen.github.io/). My research interests focus on **Trustworthy AI**, **Large Language Models (LLMs)**, and **LLM Agents**, with particular emphasis on adversarial robustness, machine unlearning, and privacy-preserving techniques for foundation models and facilitate LLM agents to master real-world, diverse and scaling MCP (Model Context Protocol) tools.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes trustworthy AI, large language models, and LLM agents. I have published papers at top-tier conferences including NeurIPS, CAV. Please check my <a href='https://scholar.google.com/citations?user=pP3j-KYAAAAJ&hl=en'>Google Scholar profile</a> for more details (<a href='https://scholar.google.com/citations?user=pP3j-KYAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
+If you are seeking any form of academic cooperation, please feel free to email me at peizhin2@illinois.edu.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025*: &nbsp;🎉🎉 Two papers accepted to **NeurIPS 2025**!
+- *2024*: &nbsp;🎉🎉 Started PhD program at University of Illinois Urbana-Champaign!
+- *2024*: &nbsp;🎉🎉 Graduated from Shanghai Jiao Tong University as **Outstanding Graduates in the City of Shanghai** !
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## Conference Papers
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**P. Niu**, Y. Wang, V. Rana, C. Rupakheti, A. Pandey, and O. Milenkovic, "A Highly Efficient and Chemical Motif-Preserving Molecule Generation Platform," **NeurIPS 2025**.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+R. Wei*, **P. Niu***, H. Hao-Hsun Hsu, R. Wu, H. Yin, M. Ghassemi, Y. Li, V. K. Potluru, E. Chien, K. Chaudhuri, O. Milenkovic, and P. Li, "Do LLMs Really Forget? Evaluating Unlearning with Knowledge Correlation and Confidence Awareness," **NeurIPS 2025**.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+T. Wei, L. Marzari*, K. S. Yun*, H. Hu*, **P. Niu***, X. Luo, and C. Liu, "ModelVerification.jl: A Comprehensive Toolbox for Formally Verifying Deep Neural Networks," **CAV 2024**.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+## Journal Papers
+
+T. Wei, Z. Wang, **P. Niu**, A. Abuduweili, W. Zhao, C. Hutchison, E. Sample, and C. Liu, "Improve Certified Training with Signal-to-Noise Ratio Loss to Decrease Neuron Variance and Increase Neuron Stability," **TMLR 2024**.
+
+## Under Review
+
+**P. Niu***, E. Ma*, H. Zhou, D. Zhou, H. Zhang, S. R. Etesami, and O. Milenkovic, "GUARD: Guided Unlearning and Retention via Data Attribution for Large Language Models," Submitted to **ICLR 2026**.
+
+W. Wang, **P. Niu**, Z. Xu, Z. Chen, J. Du, Y. Du, X. Pang, K. Huang, Y. Wang, Q. Yan, and S. Chen, "MCP-Flow: Facilitating LLM Agents to Master Real-World, Diverse and Scaling MCP Tools," Submitted to **ICLR 2026**.
+
+*Equal contribution
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025* NeurIPS 2025 Travel Award
+- *2024* Outstanding Graduates in the City of Shanghai
+- *2022* National Scholarship of China (Top 1% nationwide)
+- *2022* First-class Scholarship of SJTU
+- *2022* Excellent Student Cadre of SJTU
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *Sep 2024 - Present*, **PhD in Electrical and Computer Engineering**, University of Illinois Urbana-Champaign (UIUC), USA
+  - GPA: 4.0/4.0
+  - Advisor: [Olgica Milenkovic](https://publish.illinois.edu/milenkovic/) (IEEE Fellow)
+  - Research Direction: Trustworthy AI, LLMs, LLM Agent
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *Sep 2020 - Jun 2024*, **Bachelor of Electronic Science and Technology**, Shanghai Jiao Tong University (SJTU), China
+  - GPA: 90.52/100 (Major: 90.93/100)
+  - Advisor: [Siheng Chen](https://siheng-chen.github.io/)
+  - Ranking: **Top 1 of 65** in department
+
+# 🔬 Research Experience
+
+**University of Illinois Urbana-Champaign** (Sep 2024 - Present)\\
+*Research Assistant | Advisor: Professor Olgica Milenkovic (IEEE Fellow)*
+- Developed CKA-Agent achieving **95-98% attack success rates** on commercial LLMs, outperforming SOTA by 20-50% [To be uploaded to arXiv soon]
+- Proposed GUARD framework for LLM unlearning with adaptive data attribution, maintaining model utility while ensuring effective forgetting [Submitted to ICLR 2026]
+- Designed evaluation framework revealing current unlearning strategies overestimate effectiveness by **20-30%** [**NeurIPS 2025**]
+- Created DMol molecule generation model reducing diffusion steps by **10-fold** and runtime by half [**NeurIPS 2025**]
+
+**Shanghai Jiao Tong University** (Jul 2025 - Present)\\
+*Research on MCP Tools and LLM Agents | Advisor: Professor [Siheng Chen](https://siheng-chen.github.io/)*
+- Built automated pipeline collecting data from **1,166 MCP servers and 11,536 tools**, producing 68,733 instruction pairs
+- Developed **MCP-Flow**, a web-agent-driven framework for large-scale MCP tool integration and model training, facilitating LLM agents to master real-world, diverse and scaling MCP tools [Submitted to ICLR 2026]
+
+**Carnegie Mellon University** (Jun 2023 - Jan 2024)\\
+*Research Assistant | Advisor: Professor Changliu Liu*
+- Extended Signal-to-Noise Ratio into robustness domain, addressing over-regularization in certified training [**TMLR 2024**]
+- Developed unified Julia-based framework integrating mainstream verification algorithms [**CAV 2024**]
+
+# 💬 Services
+- **Program Committee or Reviewer**: NeurIPS, ICML, ICLR
+- **Leadership**: Student Union of School of Electronic Information and Electrical Engineering, Department Secretary
