@@ -8,6 +8,7 @@
 # Site Settings
 title                    : "Peizhi Niu"
 description              : "PhD Student at University of Illinois Urbana-Champaign | Research on Trustworthy AI, Large Language Models, and LLM Agents"
+url                      : "https://liekon.github.io"
 repository               : "liekon/liekon.github.io"
 google_scholar_stats_use_cdn : true
 
