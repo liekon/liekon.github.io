@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Peizhi Niu"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/jiaoda.jpg"
   bio              : "University of Illinois Urbana-Champaign"
   location         : "Urbana, USA"
   employer         : "UIUC"
@@ -44,7 +44,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "peizhi-niu-746409395"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :

@@ -30,23 +30,89 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 # 📝 Publications 
 
-## Conference Papers
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/CKAAgent.jpg' alt="CKA-Agent" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-**P. Niu**, Y. Wang, V. Rana, C. Rupakheti, A. Pandey, and O. Milenkovic, "A Highly Efficient and Chemical Motif-Preserving Molecule Generation Platform," **NeurIPS 2025**.
+CKA-Agent: Achieving High Attack Success Rates on Commercial LLMs
 
-R. Wei*, **P. Niu***, H. Hao-Hsun Hsu, R. Wu, H. Yin, M. Ghassemi, Y. Li, V. K. Potluru, E. Chien, K. Chaudhuri, O. Milenkovic, and P. Li, "Do LLMs Really Forget? Evaluating Unlearning with Knowledge Correlation and Confidence Awareness," **NeurIPS 2025**.
+R. Wei<sup>*</sup>, **P. Niu**<sup>*</sup>, X. Shen<sup>*</sup>, T. Tu, Y. Li, R. Wu, E. Chien, K. Chaudhuri, P.-Y. Chen, O. Milenkovic, and P. Li
 
-T. Wei, L. Marzari*, K. S. Yun*, H. Hu*, **P. Niu***, X. Luo, and C. Liu, "ModelVerification.jl: A Comprehensive Toolbox for Formally Verifying Deep Neural Networks," **CAV 2024**.
+- Developed CKA-Agent achieving **95-98% attack success rates** on commercial LLMs, outperforming SOTA by 20-50%. [To be uploaded to arXiv soon] <img src='images/github.png' alt="GitHub" width="16" height="16"> [**Code**](https://github.com/Graph-COM/CKA-Agent)
 
-## Journal Papers
+</div>
+</div>
 
-T. Wei, Z. Wang, **P. Niu**, A. Abuduweili, W. Zhao, C. Hutchison, E. Sample, and C. Liu, "Improve Certified Training with Signal-to-Noise Ratio Loss to Decrease Neuron Variance and Increase Neuron Stability," **TMLR 2024**.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/MCPFlow.jpg' alt="MCP-Flow" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-## Under Review
+[MCP-Flow: Facilitating LLM Agents to Master Real-World, Diverse and Scaling MCP Tools](https://arxiv.org/pdf/2510.24284)
 
-**P. Niu***, E. Ma*, H. Zhou, D. Zhou, H. Zhang, S. R. Etesami, and O. Milenkovic, "GUARD: Guided Unlearning and Retention via Data Attribution for Large Language Models," Submitted to **ICLR 2026**.
+W. Wang, **P. Niu**, Z. Xu, Z. Chen, J. Du, Y. Du, X. Pang, K. Huang, Y. Wang, Q. Yan, and S. Chen
 
-W. Wang, **P. Niu**, Z. Xu, Z. Chen, J. Du, Y. Du, X. Pang, K. Huang, Y. Wang, Q. Yan, and S. Chen, "MCP-Flow: Facilitating LLM Agents to Master Real-World, Diverse and Scaling MCP Tools," Submitted to **ICLR 2026**.
+- A web-agent-driven framework for large-scale MCP tool integration and model training, facilitating LLM agents to master real-world, diverse and scaling MCP tools. <img src='images/github.png' alt="GitHub" width="16" height="16"> [**Code**](https://github.com/wwh0411/MCP-Flow)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/GUARD.jpg' alt="GUARD" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GUARD: Guided Unlearning and Retention via Data Attribution for Large Language Models](https://arxiv.org/pdf/2506.10946)
+
+**P. Niu**<sup>*</sup>, E. Ma<sup>*</sup>, H. Zhou, D. Zhou, H. Zhang, S. R. Etesami, and O. Milenkovic
+
+- A framework for LLM unlearning with adaptive data attribution, maintaining model utility while ensuring effective forgetting.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/DoLLMReallyForget.jpg' alt="Do LLMs Really Forget" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Do LLMs Really Forget? Evaluating Unlearning with Knowledge Correlation and Confidence Awareness](https://arxiv.org/pdf/2506.05735)
+
+R. Wei<sup>*</sup>, **P. Niu**<sup>*</sup>, H. Hao-Hsun Hsu, R. Wu, H. Yin, M. Ghassemi, Y. Li, V. K. Potluru, E. Chien, K. Chaudhuri, O. Milenkovic, and P. Li
+
+- An evaluation framework revealing that current unlearning strategies overestimate effectiveness by 20-30% through knowledge correlation and confidence awareness. <img src='images/github.png' alt="GitHub" width="16" height="16"> [**Code**](https://github.com/Graph-COM/Knowledge_Unlearning)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/DMol.png' alt="DMol" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DMol: A Highly Efficient and Chemical Motif-Preserving Molecule Generation Platform](https://openreview.net/pdf?id=5szmKUMhB7)
+
+**P. Niu**, Y. Wang, V. Rana, C. Rupakheti, A. Pandey, and O. Milenkovic
+
+- A highly efficient molecule generation platform that reduces diffusion steps by 10-fold and runtime by half while preserving chemical motifs. <img src='images/github.png' alt="GitHub" width="16" height="16"> [**Code**](https://github.com/liekon/Discrete-Graph-Generation)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAV 2024</div><img src='images/ModelVerification.png' alt="ModelVerification.jl" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ModelVerification.jl: A Comprehensive Toolbox for Formally Verifying Deep Neural Networks](https://link.springer.com/chapter/10.1007/978-3-031-98679-6_18)
+
+T. Wei, L. Marzari<sup>*</sup>, K. S. Yun<sup>*</sup>, H. Hu<sup>*</sup>, **P. Niu**<sup>*</sup>, X. Luo, and C. Liu
+
+- A unified Julia-based framework integrating mainstream verification algorithms for deep neural networks. <img src='images/github.png' alt="GitHub" width="16" height="16"> [**Code**](https://github.com/intelligent-control-lab/ModelVerification.jl)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR 2024</div><img src='images/SNR.jpg' alt="SNR Loss" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Improve Certified Training with Signal-to-Noise Ratio Loss to Decrease Neuron Variance and Increase Neuron Stability](https://openreview.net/pdf?id=iV0jktFZ5Y)
+
+T. Wei, Z. Wang, **P. Niu**, A. Abuduweili, W. Zhao, C. Hutchison, E. Sample, and C. Liu
+
+- Extended Signal-to-Noise Ratio into robustness domain, addressing over-regularization in certified training.
+
+</div>
+</div>
 
 *Equal contribution
 
