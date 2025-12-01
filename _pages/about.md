@@ -33,7 +33,7 @@ If you are seeking any form of academic cooperation, please feel free to email m
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/CKAAgent.jpg' alt="CKA-Agent" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-CKA-Agent: Achieving High Attack Success Rates on Commercial LLMs
+A Wolf in Sheep's Clothing: Bypassing Commercial LLM Guardrails via Harmless Prompt Weaving and Adaptive Tree Search
 
 R. Wei<sup>*</sup>, **P. Niu**<sup>*</sup>, X. Shen<sup>*</sup>, T. Tu, Y. Li, R. Wu, E. Chien, K. Chaudhuri, P.-Y. Chen, O. Milenkovic, and P. Li
 
