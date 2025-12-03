@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year PhD student at [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu) advised by Professor [Olgica Milenkovic](https://publish.illinois.edu/milenkovic/) (IEEE Fellow). I graduated from [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/) with a bachelor's degree, advised by Professor [Siheng Chen](https://siheng-chen.github.io/). My research interests focus on **Trustworthy AI**, **Large Language Models (LLMs)**, and **LLM Agents**, with particular emphasis on adversarial robustness, machine unlearning, and privacy-preserving techniques for foundation models and facilitate LLM agents to master real-world, diverse and scaling MCP (Model Context Protocol) tools.
+I am a second-year PhD student at [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu) advised by Professor [Olgica Milenkovic](https://publish.illinois.edu/milenkovic/) (IEEE Fellow). I graduated from [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/) with a bachelor's degree, advised by Professor [Siheng Chen](https://siheng-chen.github.io/). My research interests focus on **Trustworthy AI**, **Large Language Models (LLMs)**, and **LLM Agents**, with particular emphasis on adversarial robustness, machine unlearning, and privacy-preserving techniques for foundation models and facilitate LLM agents to master real-world, diverse and scaling MCP (Model Context Protocol) tools. I am also fortunate to collaborate with Professors Pan Li, Kamalika Chaudhuri, and Pin-Yu Chen.
 
 My research interest includes trustworthy AI, large language models, and LLM agents. I have published papers at top-tier conferences including NeurIPS, CAV. Please check my <a href='https://scholar.google.com/citations?user=pP3j-KYAAAAJ&hl=en'>Google Scholar profile</a> for more details (<a href='https://scholar.google.com/citations?user=pP3j-KYAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
@@ -33,11 +33,11 @@ If you are seeking any form of academic cooperation, please feel free to email m
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/CKAAgent.jpg' alt="CKA-Agent" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-A Wolf in Sheep's Clothing: Bypassing Commercial LLM Guardrails via Harmless Prompt Weaving and Adaptive Tree Search
+[The Trojan Knowledge: Bypassing Commercial LLM Guardrails via Harmless Prompt Weaving and Adaptive Tree Search](https://arxiv.org/abs/2512.01353)
 
 R. Wei<sup>*</sup>, **P. Niu**<sup>*</sup>, X. Shen<sup>*</sup>, T. Tu, Y. Li, R. Wu, E. Chien, K. Chaudhuri, P.-Y. Chen, O. Milenkovic, and P. Li
 
-- Developed CKA-Agent achieving **95-98% attack success rates** on commercial LLMs, outperforming SOTA by 20-50%. [To be uploaded to arXiv soon] <img src='images/github.png' alt="GitHub" width="16" height="16"> [**Code**](https://github.com/Graph-COM/CKA-Agent)
+- Developed CKA-Agent achieving **95-98% attack success rates** on commercial LLMs, outperforming SOTA by 20-50%. <img src='images/github.png' alt="GitHub" width="16" height="16"> [**Code**](https://github.com/Graph-COM/CKA-Agent)
 
 </div>
 </div>
